@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(243, 191, 60);
+    color:brown;
+    border:solid;
+    border-radius: 10px;
+    padding-bottom: 30px;
+}
+.heading{
+    background-color: rgb(178, 49, 17);
+    color: antiquewhite;
+}
+h1{
+    font-family: cursive; 
+    font-size: 3.5rem; 
+}
+
